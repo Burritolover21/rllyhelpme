@@ -641,7 +641,10 @@ select {
   .rwd-table td:first-child {
     padding-left: 0;
   }
-
+  .subtitle {
+      font-size: 1em;
+      text-align: center;
+  }
   .rwd-table th:last-child,
   .rwd-table td:last-child {
     padding-right: 0;
