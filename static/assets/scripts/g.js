@@ -31,12 +31,6 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ['all', 'emu'],
     },
     {
-      name: '10 Minutes Till Dawn',
-      link: 'https://www.crazygames.com/game/10-minutes-till-dawn',
-      image: '/assets/media/icons/tmtd.png',
-      categories: ['all'],
-    },
-    {
       name: '2048',
       link: 'https://2048.org/',
       image: '/assets/media/icons/2048.png',
