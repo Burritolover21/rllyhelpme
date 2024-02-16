@@ -643,7 +643,7 @@ select {
   }
 .subtitle {
   font-size: 5vh; /* Adjusted font-size */
-  color: var(--subtitle); /* Adjusted color variable */
+  color: var(--title); /* Adjusted color variable */
   font-family: 'Inter', sans-serif;
   text-align: center;
   text-transform: uppercase;
