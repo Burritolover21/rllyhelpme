@@ -649,7 +649,7 @@ select {
   text-transform: uppercase;
   border-radius: 0px 0px 5px 5px;
   margin-top: 2vh; /* Adjusted margin-top */
-  margin-bottom: 20vh; /* Adjusted margin-bottom */
+  margin-bottom: 5vh; /* Adjusted margin-bottom */
   text-shadow: 1px 2px 3px rgb(0, 0, 0, 0.2); /* Adjusted text-shadow */
 }
   .rwd-table th:last-child,
