@@ -240,13 +240,13 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ['all', 'media'],
       error: false,
     },
-    {
-      name: 'Soundcloud',
-      link: 'https://soundcloud.com',
-      image: '/assets/media/icons/apps/soundcloud.jpg',
-      categories: ['all', 'media'],
-      error: false,
-    },
+    // {
+    //   name: 'Soundcloud',
+    //   link: 'https://soundcloud.com',
+    //   image: '/assets/media/icons/apps/soundcloud.jpg',
+    //   categories: ['all', 'media'],
+    //   error: false,
+    // },
     {
       name: 'Spotify',
       link: 'https://open.spotify.com',
