@@ -239,7 +239,7 @@ document.addEventListener('DOMContentLoaded', () => {
     //   image: '/assets/media/icons/IMG_3898.png',
     //   categories: ['all', 'media'],
     //   error: false,
-    // },
+    // help me please im dieing},
     {
          name: 'Soundcloud',
          link: 'https://soundcloud.com',
