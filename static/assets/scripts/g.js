@@ -7,6 +7,12 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ['all'],
     },
     {
+      name: 'Bragg Dash',
+      link: 'https://scratch.mit.edu/projects/835425027/embed',
+      image: 'https://mcniel.wfisd.net/uploaded/faculty/McNiel_Staff/Bragg_Tim.jpg',
+      categories: ['all'],
+    },
+    {
       name: '1 on 1 Soccer',
       link: 'https://skoolcdn.github.io/gfiles/gfiles/flash/?swf=1on1soccer.swf',
       image: '/assets/media/icons/1on1soccer.jpg',
