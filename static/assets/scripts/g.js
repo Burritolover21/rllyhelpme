@@ -843,7 +843,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: 'Fruit Ninja',
-      link: 'https://www.crazygames.com/game/fruit-ninja',
+      link: 'https://huningxin.github.io/spp.js/examples/fruitNinja/',
       image: '/assets/media/icons/fn.png',
       categories: ['all'],
     },
