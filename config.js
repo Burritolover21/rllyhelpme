@@ -1,8 +1,10 @@
 const config = {
-  challenge: false,
+  challenge: true,
   users: {
     // username: 'password', you can add multiple users.
-    UBH: 'password',
+    TBN: 'password',
+    nic: 'kanyewestlover911',
+    ty: 'passwordsareverycool121',
   },
 }
 export default config
