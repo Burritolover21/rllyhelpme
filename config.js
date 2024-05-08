@@ -4,7 +4,7 @@ const config = {
     // username: 'password', you can add multiple users.
     TBN: 'password',
     nic: 'kanyewestlover911',
-    ty: 'passwordsareverycool121',
+    ty: 'a',
     ian: 'ian',
   },
 }
