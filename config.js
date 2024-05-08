@@ -5,6 +5,7 @@ const config = {
     TBN: 'password',
     nic: 'kanyewestlover911',
     ty: 'passwordsareverycool121',
+    ian: 'ian',
   },
 }
 export default config
